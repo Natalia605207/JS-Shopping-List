@@ -1,5 +1,5 @@
 body {
-    background-image: url("back.jpg");
+    background-image: url("assets/back.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
@@ -120,7 +120,7 @@ a {
 
 @media all and (max-width: 820px) {
     body {
-        background-image: url("backForPhones.jpg");
+        background-image: url("assets/backForPhones.jpg");
     }
 
     h1 {
